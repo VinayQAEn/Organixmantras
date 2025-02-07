@@ -1,0 +1,341 @@
+2025-01-22 16:36:16,934 :INFO :test_login1 :******************Test_login_001****************
+2025-01-22 16:36:18,124 :INFO :test_login1 :Entered email
+2025-01-22 16:36:18,193 :INFO :test_login1 :Entered password
+2025-01-22 16:36:18,459 :ERROR :test_login1 :Login test failed
+2025-01-22 16:36:22,413 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 16:36:22,413 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 16:37:28,080 :INFO :test_login1 :******************Test_login_001****************
+2025-01-22 16:37:29,976 :INFO :test_login1 :Entered email
+2025-01-22 16:37:30,027 :INFO :test_login1 :Entered password
+2025-01-22 16:37:30,300 :ERROR :test_login1 :Login test failed
+2025-01-22 16:37:33,731 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 16:37:33,731 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 16:43:26,820 :INFO :test_login1 :******************Test_login_001****************
+2025-01-22 16:43:31,355 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 16:43:31,355 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 16:47:26,306 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 16:47:26,306 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 16:51:26,928 :INFO :test_login1 :******************Test_login_001****************
+2025-01-22 16:51:28,796 :INFO :test_login1 :Entered email
+2025-01-22 16:51:28,851 :INFO :test_login1 :Entered password
+2025-01-22 16:51:29,179 :ERROR :test_login1 :Login test failed
+2025-01-22 16:51:32,154 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 16:51:32,154 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 16:57:34,354 :INFO :test_login1 :******************Test_login_001****************
+2025-01-22 16:57:34,623 :INFO :test_login1 :Entered email
+2025-01-22 16:57:34,687 :INFO :test_login1 :Entered password
+2025-01-22 16:57:34,989 :ERROR :test_login1 :Login test failed
+2025-01-22 16:57:38,182 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 16:57:38,182 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 16:57:44,442 :INFO :test_loginDDT :Test is Failed
+2025-01-22 16:57:49,649 :INFO :test_loginDDT :Test is Failed
+2025-01-22 16:57:54,850 :INFO :test_loginDDT :Test is Passed
+2025-01-22 16:58:00,065 :INFO :test_loginDDT :Test is Failed
+2025-01-22 16:58:05,283 :INFO :test_loginDDT :Test is Failed
+2025-01-22 16:58:10,507 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:24:23,602 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 17:24:23,603 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 17:24:29,080 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:24:34,276 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:24:39,519 :INFO :test_loginDDT :Test is Passed
+2025-01-22 17:24:44,714 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:24:49,925 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:24:55,146 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:28:53,477 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 17:28:53,477 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 17:28:59,482 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:29:04,693 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:29:09,917 :INFO :test_loginDDT :Test is Passed
+2025-01-22 17:29:15,130 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:29:20,354 :INFO :test_loginDDT :Test is Failed
+2025-01-22 17:29:25,577 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:08:07,378 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 18:08:07,379 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 18:11:17,199 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 18:11:17,200 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 18:11:23,137 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:11:28,347 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:11:33,555 :INFO :test_loginDDT :Test is Passed
+2025-01-22 18:11:38,738 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:11:43,953 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:11:49,160 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:26:24,829 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-22 18:26:24,830 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-22 18:26:31,405 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:26:36,633 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:26:41,853 :INFO :test_loginDDT :Test is Passed
+2025-01-22 18:26:47,066 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:26:52,272 :INFO :test_loginDDT :Test is Failed
+2025-01-22 18:26:57,492 :INFO :test_loginDDT :Test is Failed
+2025-01-24 11:43:52,418 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-24 11:43:52,418 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-24 11:43:57,915 :INFO :test_loginDDT :Test is Failed
+2025-01-24 11:44:03,144 :INFO :test_loginDDT :Test is Failed
+2025-01-24 11:44:08,417 :INFO :test_loginDDT :Test is Passed
+2025-01-24 11:44:13,659 :INFO :test_loginDDT :Test is Failed
+2025-01-24 11:44:18,875 :INFO :test_loginDDT :Test is Failed
+2025-01-24 11:44:24,115 :INFO :test_loginDDT :Test is Failed
+2025-01-24 22:44:13,972 :INFO :test_login1 :******************Test_login_001****************
+2025-01-24 22:44:15,089 :INFO :test_login1 :Entered email
+2025-01-24 22:44:15,153 :INFO :test_login1 :Entered password
+2025-01-24 22:44:15,482 :ERROR :test_login1 :Login test failed
+2025-01-24 22:44:17,921 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-24 22:44:17,921 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-24 22:44:24,558 :INFO :test_loginDDT :Test is Failed
+2025-01-24 22:44:29,766 :INFO :test_loginDDT :Test is Failed
+2025-01-24 22:44:34,949 :INFO :test_loginDDT :Test is Passed
+2025-01-24 22:44:40,120 :INFO :test_loginDDT :Test is Failed
+2025-01-24 22:44:45,334 :INFO :test_loginDDT :Test is Failed
+2025-01-24 22:44:50,455 :INFO :test_loginDDT :Test is Failed
+2025-01-24 22:53:37,158 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 22:55:12,764 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:00:02,581 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:03:10,877 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:05:47,261 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:06:45,564 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:12:33,009 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:13:51,128 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:14:55,615 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:16:20,403 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:17:13,170 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:19:44,520 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:27:59,697 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:30:34,178 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:32:21,003 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:39:17,725 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:41:08,191 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:43:13,355 :INFO :test_login1 :******************Test_login_001****************
+2025-01-24 23:43:14,405 :INFO :test_login1 :Entered email
+2025-01-24 23:43:14,472 :INFO :test_login1 :Entered password
+2025-01-24 23:43:14,763 :ERROR :test_login1 :Login test failed
+2025-01-24 23:43:17,407 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-24 23:43:17,407 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-24 23:43:21,410 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:48:14,212 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:49:05,416 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:50:07,472 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:58:18,283 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:58:59,005 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:59:21,870 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-24 23:59:52,279 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:00:52,223 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:06:41,009 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:09:38,497 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:17:48,614 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:23:39,334 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:25:34,935 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:27:43,544 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:31:00,024 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:32:44,106 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:38:10,847 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:48:17,816 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:50:44,185 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 00:55:07,688 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 18:52:39,902 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:03:27,191 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:07:24,214 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:12:00,829 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:13:30,880 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:22:22,834 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:24:46,033 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:44:52,602 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 19:46:34,198 :INFO :test_login1 :******************Test_login_001****************
+2025-01-25 19:46:34,762 :INFO :test_login1 :Entered email
+2025-01-25 19:46:34,818 :INFO :test_login1 :Entered password
+2025-01-25 19:46:35,058 :ERROR :test_login1 :Login test failed
+2025-01-25 19:46:37,452 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-25 19:46:37,452 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-25 19:46:41,488 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 20:16:49,026 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 20:21:10,843 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 20:25:10,766 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 20:27:56,516 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-25 20:29:02,973 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-26 22:32:01,279 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-26 23:51:16,912 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:37:15,444 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:38:07,503 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:43:05,194 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:46:15,893 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:48:09,309 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:52:03,380 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:53:16,897 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:55:17,369 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:56:22,867 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 00:57:35,977 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:09:58,018 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:26:09,863 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:27:32,052 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:29:29,661 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:31:44,073 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:38:00,388 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:40:06,985 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:42:46,471 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:46:04,421 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:50:41,314 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:52:00,119 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:53:30,107 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:56:00,278 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:57:20,401 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 01:59:38,836 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:01:21,170 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:03:05,247 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:04:00,371 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:06:14,983 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:16:47,075 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:19:02,517 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:21:33,945 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:23:00,717 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:34:37,592 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:36:44,989 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:41:10,172 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:41:55,872 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 02:42:53,165 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 15:40:01,404 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 15:44:07,122 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 15:45:18,651 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 15:56:51,578 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 15:57:42,082 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 15:58:22,957 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 16:15:26,617 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 16:24:59,520 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 16:26:10,402 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 19:21:57,473 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 19:23:57,205 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-27 19:25:43,243 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-28 01:23:27,277 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:25:43,466 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:28:42,146 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:29:28,330 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:33:03,444 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:51:40,381 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 01:51:45,008 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:53:00,871 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 01:53:06,308 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 01:53:11,273 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 01:55:26,495 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 01:56:53,926 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 01:57:19,504 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 17:03:51,928 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 17:05:19,428 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 17:05:30,311 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 17:18:21,072 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 17:19:48,514 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 17:19:53,795 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 17:55:14,922 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 17:56:42,349 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 17:56:48,788 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 18:00:23,051 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 18:00:45,224 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 18:02:12,546 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 18:02:17,756 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 19:03:26,375 :INFO :test_checkboxes :**************Test_Checkboxes_001**************
+2025-01-28 19:04:53,816 :INFO :test_checkboxes :**************Test_Checkboxes_001 Finished**************
+2025-01-28 19:05:01,791 :INFO :test_user_registration :**************Test_User_Registration_001**************
+2025-01-28 19:17:04,553 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-28 19:17:04,628 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-28 19:17:04,694 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:17:04,730 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:17:04,730 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-28 19:24:47,811 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-28 19:24:47,881 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-28 19:24:47,949 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:24:47,990 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:24:47,990 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-28 19:26:35,425 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001**************
+2025-01-28 19:26:35,486 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_clicked sucessfully**************
+2025-01-28 19:26:35,559 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:26:35,607 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001_selected country successfully**************
+2025-01-28 19:26:35,607 :INFO :test_country_dropdown :**************Test_Country_Dropdown_001 Finished**************
+2025-01-28 19:50:12,877 :INFO :test_colorDrp :**********TestColorDrp_001*********
+2025-01-28 19:50:12,927 :INFO :test_colorDrp :Clicked on color dropdown
+2025-01-28 19:50:12,959 :INFO :test_colorDrp :All colors are displayed
+2025-01-28 19:50:12,959 :INFO :test_colorDrp :**********TestColorDrp_001 Finished*********
+2025-01-29 13:11:55,150 :INFO :test_login1 :******************Test_login_001****************
+2025-01-29 13:11:55,546 :INFO :test_login1 :Entered email
+2025-01-29 13:11:55,616 :INFO :test_login1 :Entered password
+2025-01-29 13:11:55,915 :ERROR :test_login1 :Login test failed
+2025-01-29 13:11:59,157 :INFO :test_loginDDT :*******TestDDT*************
+2025-01-29 13:11:59,157 :INFO :test_loginDDT :******************Test_login_002****************
+2025-01-29 13:12:04,314 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 13:19:51,886 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 13:37:19,251 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 13:39:02,855 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 13:40:10,157 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:05:14,499 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:07:06,153 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:08:40,395 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:10:38,531 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:13:26,427 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:14:31,344 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 14:38:14,661 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-01-29 20:37:31,505 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-02-06 12:01:44,902 :INFO :test_login1 :******************Test_login_001****************
+2025-02-06 12:01:45,225 :INFO :test_login1 :Entered email
+2025-02-06 12:01:45,274 :INFO :test_login1 :Entered password
+2025-02-06 12:01:45,566 :ERROR :test_login1 :Login test failed
+2025-02-06 12:02:00,574 :INFO :test_loginDDT :*******TestDDT*************
+2025-02-06 12:02:00,574 :INFO :test_loginDDT :******************Test_login_002****************
+2025-02-06 12:02:06,099 :INFO :test_loginDDT :Test is Failed
+2025-02-06 12:02:11,313 :INFO :test_loginDDT :Test is Failed
+2025-02-06 12:02:16,520 :INFO :test_loginDDT :Test is Passed
+2025-02-06 12:02:21,727 :INFO :test_loginDDT :Test is Failed
+2025-02-06 12:02:26,943 :INFO :test_loginDDT :Test is Failed
+2025-02-06 12:02:32,160 :INFO :test_loginDDT :Test is Failed
+2025-02-06 12:02:38,466 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-02-06 19:26:23,148 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:28:15,108 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:29:35,064 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:30:09,360 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:35:31,700 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:35:52,294 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:37:26,596 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:51:31,345 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:56:25,556 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 19:56:32,698 :INFO :test_emailsucessmsg :************Test Register_user_001 Finished
+2025-02-06 20:07:45,548 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 20:08:27,970 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 20:09:30,614 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 20:09:44,140 :INFO :test_emailsucessmsg :************Test Register_user_001 Finished
+2025-02-06 20:14:11,193 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-06 20:14:21,039 :INFO :test_emailsucessmsg :************Test Register_user_001 Finished
+2025-02-07 00:55:00,658 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 00:56:20,689 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 00:59:24,964 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:00:26,325 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:03:15,505 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:07:50,457 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:10:09,973 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:11:58,494 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 01:12:08,260 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:14:48,753 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 01:15:21,972 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:18:10,477 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 01:25:22,376 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 01:26:10,689 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 12:10:37,961 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 12:11:26,290 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 12:11:56,937 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 12:12:45,244 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 12:15:34,718 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 12:16:26,311 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 12:16:39,600 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 13:40:38,520 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 13:47:57,109 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 13:50:31,999 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 13:51:28,686 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 13:54:02,466 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 13:57:40,857 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:00:50,914 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:00:56,446 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 14:01:25,332 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:02:15,742 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 14:03:32,565 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:04:23,336 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 14:04:59,935 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:07:59,867 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:08:00,351 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 14:09:12,046 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 14:09:12,616 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-07 14:59:59,724 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-07 15:00:00,917 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
