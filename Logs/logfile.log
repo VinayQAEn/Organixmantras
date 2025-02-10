@@ -339,3 +339,22 @@
 2025-02-07 14:09:12,616 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
 2025-02-07 14:59:59,724 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
 2025-02-07 15:00:00,917 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-08 23:15:53,479 :INFO :test_emailsucessmsg :*********Test Reg_error_msg started********
+2025-02-08 23:15:54,796 :INFO :test_emailsucessmsg :************Test Reg_error_msg Finished
+2025-02-08 23:15:57,302 :INFO :test_login1 :******************Test_login_001****************
+2025-02-08 23:15:58,768 :INFO :test_login1 :Entered email
+2025-02-08 23:15:58,816 :INFO :test_login1 :Entered password
+2025-02-08 23:15:59,110 :ERROR :test_login1 :Login test failed
+2025-02-08 23:16:01,850 :INFO :test_loginDDT :*******TestDDT*************
+2025-02-08 23:16:01,850 :INFO :test_loginDDT :******************Test_login_002****************
+2025-02-08 23:16:08,139 :INFO :test_loginDDT :Test is Failed
+2025-02-08 23:16:13,371 :INFO :test_loginDDT :Test is Failed
+2025-02-08 23:16:18,583 :INFO :test_loginDDT :Test is Passed
+2025-02-08 23:16:23,783 :INFO :test_loginDDT :Test is Failed
+2025-02-08 23:16:29,067 :INFO :test_loginDDT :Test is Failed
+2025-02-08 23:16:34,282 :INFO :test_loginDDT :Test is Failed
+2025-02-08 23:16:37,135 :INFO :test_registeruser :******************Test_register_user_001****************
+2025-02-08 23:17:01,632 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-08 23:17:01,632 :INFO :test_emailsucessmsg :*********Test Register_user_001 started********
+2025-02-08 23:17:09,812 :INFO :test_emailsucessmsg :************Test Register_user_001 Finished
+2025-02-08 23:17:09,812 :INFO :test_emailsucessmsg :************Test Register_user_001 Finished
