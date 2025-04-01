@@ -62,3 +62,5 @@ class Test_login_001:
       print(f"Browser selected: {browser_name}")
       assert browser_name in ["chrome", "firefox", "safari"]
 
+      
+

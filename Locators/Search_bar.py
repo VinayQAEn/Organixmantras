@@ -16,12 +16,13 @@ class Search_bar:
         self.driver = driver
 
     def searchbar_ddt(self):
+        time.sleep(10)
+
         wait = WebDriverWait(self.driver, 10)  # Wait up to 10 seconds
 
         # Wait until the search button is clickable before clicking
         search_button = wait.until(EC.element_to_be_clickable((By.XPATH, self.txt_searchbar_btn_Xpath)))
         search_button.click()
-        time.sleep(10)
 
         self.file = "/Users/riyabakoria/Desktop/SearchDDT.xlsx"
         self.workbook = openpyxl.load_workbook(self.file)

@@ -33,3 +33,5 @@ def generate_random_email(domain="example.com", length=10):
         random_string = ''.join(random.choices(string.ascii_lowercase + string.digits, k=length))
         return f"{random_string}@{domain}"
 
+
+
