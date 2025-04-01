@@ -419,3 +419,4 @@
 2025-04-01 14:03:02,459 :INFO :test_emailsucessmsg :************Test Register_user_001 Finished
 2025-04-01 14:03:27,788 :INFO :test_search_bar :***********Test search_bart_001 started*************
 2025-04-01 14:03:42,456 :INFO :test_search_bar :************Test search_barddt_finished*************8
+2025-04-01 16:29:45,584 :INFO :test_addtocart :********************Test add to cart test started*****************
