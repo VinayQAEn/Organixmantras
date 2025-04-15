@@ -420,3 +420,11 @@
 2025-04-01 14:03:27,788 :INFO :test_search_bar :***********Test search_bart_001 started*************
 2025-04-01 14:03:42,456 :INFO :test_search_bar :************Test search_barddt_finished*************8
 2025-04-01 16:29:45,584 :INFO :test_addtocart :********************Test add to cart test started*****************
+2025-04-01 17:36:39,467 :INFO :test_addtocart :********************Test add to cart test started*****************
+2025-04-01 17:36:47,764 :INFO :test_addtocart :********************Test aad to cart finished*****************
+2025-04-01 17:36:47,764 :INFO :test_addtocart :********************Test add product quantity started***********
+2025-04-01 17:36:47,801 :INFO :test_addtocart :********************Test add product quantity finished***********
+2025-04-02 13:49:10,016 :INFO :test_addtocart :********************Test add to cart test started*****************
+2025-04-02 13:49:18,113 :INFO :test_addtocart :********************Test aad to cart finished*****************
+2025-04-02 13:49:18,114 :INFO :test_addtocart :********************Test add product quantity started***********
+2025-04-02 13:49:18,176 :INFO :test_addtocart :********************Test add product quantity finished***********

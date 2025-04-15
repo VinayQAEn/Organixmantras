@@ -13,6 +13,9 @@ class Test_checkout:
         self.logger.info("********************Test add product quantity started***********")
         self.cp.add_product_quantity()
         self.logger.info("********************Test add product quantity finished***********")
+        self.cp.shop_cart()
+        self.logger.info("********************Test shop_cart sucessfully executed***********")
+        self.cp.proceed()
         
 
 
